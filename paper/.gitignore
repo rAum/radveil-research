@@ -1,0 +1,20 @@
+# local environment and data (never committed: see README.md)
+/.venv/
+/data/
+# QA sheets are large (~60 KB per case per run): regenerate with --qa or share
+# them as an archive; the review verdicts are committed as results/qa_review.csv
+/results/qa/
+# biometric templates (face embeddings, head-shape descriptors) of public
+# dataset subjects: kept local, only the analysis summaries are committed
+/results/embeddings/
+/results/shape/
+# smoke-test runs
+/results/runs/*__smoke*
+/results/embeddings/*__smoke*
+/results/profile_quick.json
+# LaTeX build products (radveil.pdf is committed for readers without TeX)
+/tex/*.aux
+/tex/*.bbl
+/tex/*.blg
+/tex/*.log
+/tex/*.out

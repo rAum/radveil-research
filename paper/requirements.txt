@@ -1,0 +1,12 @@
+# Analysis environment for the paper. Top-level pins; the full, hashed
+# dependency set is requirements.lock (uv pip compile --generate-hashes).
+# radveil itself is built from this checkout (`make -C paper env`).
+numpy==2.2.6
+scipy==1.16.3
+nibabel==5.3.2
+pandas==2.3.3
+matplotlib==3.10.7
+xlrd==2.0.2
+opencv-python-headless==4.12.0.88
+onnxruntime==1.22.1
+quickshear==1.2.0

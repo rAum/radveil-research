@@ -1,0 +1,27 @@
+{
+  "ixi": {
+    "volumes": 1737,
+    "subjects": 582,
+    "by_contrast": {
+      "T1": 581,
+      "T2": 578,
+      "PD": 578
+    },
+    "by_site": {
+      "Guys": 960,
+      "HH": 555,
+      "IOP": 222
+    },
+    "development_subjects": 53
+  },
+  "synthstrip": {
+    "cases_with_image": 582,
+    "with_labels": 131,
+    "archive_sha256": "c9f070c40266790d97fce35b8864dfcd96f039b598311030c9d707671b3b0aba"
+  },
+  "archive_sha256": {
+    "IXI-PD.tar": "c00124d2409b68f9800938ede547cff71cafb0d51e19bd5138d85a4c4e144130",
+    "IXI-T1.tar": "56bbe911fbe967f7d1b830a552995263bdba281e0a6eb78e62f1c38d88a946a9",
+    "IXI-T2.tar": "39af50f87be8f7d0be2f166a64f5f59b5e43577255eb5613553dae37c348c2e4"
+  }
+}

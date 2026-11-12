@@ -1,0 +1,1209 @@
+{
+  "synthstrip_outcomes": {
+    "cases": 582,
+    "status": {
+      "refused": 375,
+      "ok": 201,
+      "error": 6
+    },
+    "refusal_reasons": {
+      "no face found": 187,
+      "candidates failed 3D consensus": 154,
+      "face cut by the field of view": 34
+    },
+    "errors": [
+      [
+        "ixi_pd_015",
+        "exit 1"
+      ],
+      [
+        "ixi_pd_524",
+        "exit 1"
+      ],
+      [
+        "ixi_pd_525",
+        "exit 1"
+      ],
+      [
+        "ixi_t2_525",
+        "exit 1"
+      ],
+      [
+        "qin_t2_08",
+        "exit 1"
+      ],
+      [
+        "qin_t2_37",
+        "exit 1"
+      ]
+    ]
+  },
+  "brain_safety": {
+    "adaptive": {
+      "n": 201,
+      "paired_n": 110,
+      "touched_ids": []
+    },
+    "adaptive_noverify": {
+      "n": 201,
+      "paired_n": 110,
+      "touched_ids": []
+    },
+    "blur": {
+      "n": 201,
+      "paired_n": 110,
+      "touched_ids": []
+    },
+    "cut": {
+      "n": 201,
+      "paired_n": 110,
+      "touched_ids": []
+    },
+    "adaptive_ears": {
+      "n": 201,
+      "paired_n": 110,
+      "touched_ids": [
+        "fsm_t2_76cw",
+        "infant_t1_23",
+        "ixi_t2_021",
+        "ixi_t2_134",
+        "ixi_t2_139",
+        "ixi_t2_230",
+        "qin_t2_20"
+      ]
+    },
+    "adaptive_guard": {
+      "n": 201,
+      "paired_n": 110,
+      "touched_ids": []
+    },
+    "adaptive_robust": {
+      "n": 356,
+      "paired_n": 110,
+      "touched_ids": [
+        "fsm_pd_10cv",
+        "fsm_qt1_08un",
+        "fsm_t1_33qt",
+        "fsm_t1_72kl"
+      ]
+    },
+    "pydeface": {
+      "n": 111,
+      "paired_n": 110,
+      "touched_ids": [
+        "fsm_t2_25na",
+        "fsm_t2_66oo",
+        "infant_t1_11",
+        "infant_t1_17",
+        "infant_t1_18",
+        "infant_t1_22",
+        "infant_t1_23"
+      ]
+    },
+    "mri_deface": {
+      "n": 396,
+      "paired_n": 110,
+      "touched_ids": [
+        "asl_t1_144",
+        "fsm_pd_02cd",
+        "fsm_pd_11ni",
+        "fsm_pd_14pu",
+        "fsm_pd_99tc",
+        "fsm_qt1_02cd",
+        "fsm_qt1_08un",
+        "fsm_qt1_21em",
+        "fsm_qt1_22db",
+        "fsm_qt1_30gy",
+        "fsm_qt1_39ap",
+        "fsm_qt1_40mn",
+        "fsm_qt1_42wk",
+        "fsm_qt1_59ce",
+        "fsm_qt1_67lq",
+        "fsm_qt1_79bf",
+        "fsm_qt1_85fp",
+        "fsm_qt1_96ry",
+        "fsm_t1_91zs",
+        "fsm_t2_01ob",
+        "fsm_t2_02cd",
+        "fsm_t2_07tz",
+        "fsm_t2_08un",
+        "fsm_t2_10cv",
+        "fsm_t2_11ni",
+        "fsm_t2_14pu",
+        "fsm_t2_21em",
+        "fsm_t2_22db",
+        "fsm_t2_23qf",
+        "fsm_t2_24dz",
+        "fsm_t2_25na",
+        "fsm_t2_27uz",
+        "fsm_t2_30gy",
+        "fsm_t2_39ap",
+        "fsm_t2_40mn",
+        "fsm_t2_42wk",
+        "fsm_t2_46th",
+        "fsm_t2_50ww",
+        "fsm_t2_54jc",
+        "fsm_t2_57hp",
+        "fsm_t2_59ce",
+        "fsm_t2_64ps",
+        "fsm_t2_66oo",
+        "fsm_t2_67lq",
+        "fsm_t2_70qy",
+        "fsm_t2_72kl",
+        "fsm_t2_76cw",
+        "fsm_t2_79bf",
+        "fsm_t2_85fp",
+        "fsm_t2_87qb",
+        "fsm_t2_90ao",
+        "fsm_t2_91zs",
+        "fsm_t2_93cs",
+        "fsm_t2_96ry",
+        "fsm_t2_99tc",
+        "infant_t1_13",
+        "infant_t1_17",
+        "infant_t1_19",
+        "infant_t1_25",
+        "infant_t1_26",
+        "ixi_pd_002",
+        "ixi_pd_012",
+        "ixi_pd_013",
+        "ixi_pd_015",
+        "ixi_pd_016",
+        "ixi_pd_017",
+        "ixi_pd_019",
+        "ixi_pd_020",
+        "ixi_pd_021",
+        "ixi_pd_022",
+        "ixi_pd_136",
+        "ixi_pd_137",
+        "ixi_pd_139",
+        "ixi_pd_142",
+        "ixi_pd_143",
+        "ixi_pd_230",
+        "ixi_pd_231",
+        "ixi_pd_232",
+        "ixi_pd_266",
+        "ixi_pd_267",
+        "ixi_pd_268",
+        "ixi_pd_270",
+        "ixi_pd_276",
+        "ixi_pd_397",
+        "ixi_pd_398",
+        "ixi_pd_399",
+        "ixi_pd_400",
+        "ixi_pd_518",
+        "ixi_pd_525",
+        "ixi_pd_527",
+        "ixi_pd_528",
+        "ixi_t1_012",
+        "ixi_t1_015",
+        "ixi_t1_277",
+        "ixi_t1_518",
+        "ixi_t1_521",
+        "ixi_t1_525",
+        "ixi_t2_012",
+        "ixi_t2_013",
+        "ixi_t2_015",
+        "ixi_t2_136",
+        "ixi_t2_137",
+        "ixi_t2_138",
+        "ixi_t2_139",
+        "ixi_t2_141",
+        "ixi_t2_142",
+        "ixi_t2_230",
+        "ixi_t2_231",
+        "ixi_t2_232",
+        "ixi_t2_234",
+        "ixi_t2_266",
+        "ixi_t2_269",
+        "ixi_t2_274",
+        "ixi_t2_275",
+        "ixi_t2_276",
+        "ixi_t2_277",
+        "ixi_t2_397",
+        "ixi_t2_398",
+        "ixi_t2_399",
+        "ixi_t2_400",
+        "ixi_t2_401",
+        "ixi_t2_518",
+        "ixi_t2_519",
+        "ixi_t2_521",
+        "ixi_t2_522",
+        "ixi_t2_524",
+        "ixi_t2_526",
+        "ixi_t2_527",
+        "ixi_t2_528",
+        "ixi_t2_553",
+        "qin_flair_04",
+        "qin_flair_05",
+        "qin_flair_10",
+        "qin_flair_43",
+        "qin_flair_44",
+        "qin_flair_45",
+        "qin_flair_46",
+        "qin_t1_23",
+        "qin_t1_24",
+        "qin_t1_26",
+        "qin_t1_43",
+        "qin_t1_45",
+        "qin_t1_46",
+        "qin_t2_01",
+        "qin_t2_02",
+        "qin_t2_03",
+        "qin_t2_04",
+        "qin_t2_05",
+        "qin_t2_07",
+        "qin_t2_08",
+        "qin_t2_10",
+        "qin_t2_11",
+        "qin_t2_12",
+        "qin_t2_28",
+        "qin_t2_36",
+        "qin_t2_37"
+      ]
+    },
+    "quickshear": {
+      "n": 457,
+      "paired_n": 110,
+      "touched_ids": [
+        "fsm_t1_39ap"
+      ]
+    }
+  },
+  "robust_gained": {
+    "fsm_pd": 15,
+    "fsm_qt1": 1,
+    "fsm_t1": 20,
+    "fsm_t2": 17,
+    "infant_t1": 8,
+    "ixi_mra": 4,
+    "ixi_pd": 26,
+    "ixi_t2": 24,
+    "qin_flair": 4,
+    "qin_t1": 22,
+    "qin_t2": 14
+  },
+  "adaptive_vs_noverify_status_differences": [],
+  "attack": {
+    "adaptive": {
+      "mediapipe": {
+        "n": 110,
+        "any": 92,
+        "core": 43
+      },
+      "yunet": {
+        "n": 109,
+        "any": 95,
+        "core": 71
+      }
+    },
+    "adaptive_noverify": {
+      "mediapipe": {
+        "n": 110,
+        "any": 110,
+        "core": 65
+      },
+      "yunet": {
+        "n": 109,
+        "any": 107,
+        "core": 90
+      }
+    },
+    "blur": {
+      "mediapipe": {
+        "n": 110,
+        "any": 100,
+        "core": 46
+      },
+      "yunet": {
+        "n": 109,
+        "any": 99,
+        "core": 74
+      }
+    },
+    "cut": {
+      "mediapipe": {
+        "n": 110,
+        "any": 40,
+        "core": 9
+      },
+      "yunet": {
+        "n": 109,
+        "any": 64,
+        "core": 12
+      }
+    },
+    "adaptive_ears": {
+      "mediapipe": {
+        "n": 110,
+        "any": 98,
+        "core": 34
+      },
+      "yunet": {
+        "n": 109,
+        "any": 88,
+        "core": 59
+      }
+    },
+    "pydeface": {
+      "mediapipe": {
+        "n": 110,
+        "any": 104,
+        "core": 41
+      },
+      "yunet": {
+        "n": 109,
+        "any": 108,
+        "core": 101
+      }
+    },
+    "mri_deface": {
+      "mediapipe": {
+        "n": 110,
+        "any": 109,
+        "core": 101
+      },
+      "yunet": {
+        "n": 109,
+        "any": 104,
+        "core": 92
+      }
+    },
+    "quickshear": {
+      "mediapipe": {
+        "n": 110,
+        "any": 108,
+        "core": 64
+      },
+      "yunet": {
+        "n": 109,
+        "any": 105,
+        "core": 68
+      }
+    }
+  },
+  "ixi": {
+    "volumes": 1737,
+    "status": {
+      "ok": 1120,
+      "refused": 569,
+      "error": 48
+    },
+    "brain_touched": [
+      "ixi_pd_565",
+      "ixi_t2_062",
+      "ixi_t2_219",
+      "ixi_t2_303",
+      "ixi_t2_392",
+      "ixi_t2_399",
+      "ixi_t2_451",
+      "ixi_t2_501",
+      "ixi_t2_565",
+      "ixi_t2_609",
+      "ixi_t2_633"
+    ],
+    "refusal_reasons": {
+      "face cut by the field of view": 123,
+      "no face found": 163,
+      "candidates failed 3D consensus": 283
+    }
+  },
+  "false_refusals": {
+    "synthstrip__adaptive": [
+      [
+        "infant_t1_12",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_15",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_16",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_19",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_20",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_21",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_24",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_26",
+        "face",
+        "refused"
+      ]
+    ],
+    "synthstrip__adaptive_noverify": [
+      [
+        "infant_t1_12",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_15",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_16",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_19",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_20",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_21",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_24",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_26",
+        "face",
+        "refused"
+      ]
+    ],
+    "synthstrip__blur": [
+      [
+        "infant_t1_12",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_15",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_16",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_19",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_20",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_21",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_24",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_26",
+        "face",
+        "refused"
+      ]
+    ],
+    "synthstrip__cut": [
+      [
+        "infant_t1_12",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_15",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_16",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_19",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_20",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_21",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_24",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_26",
+        "face",
+        "refused"
+      ]
+    ],
+    "synthstrip__adaptive_ears": [
+      [
+        "infant_t1_12",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_15",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_16",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_19",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_20",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_21",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_24",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_26",
+        "face",
+        "refused"
+      ]
+    ],
+    "synthstrip__adaptive_guard": [
+      [
+        "infant_t1_12",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_15",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_16",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_19",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_20",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_21",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_24",
+        "face",
+        "refused"
+      ],
+      [
+        "infant_t1_26",
+        "face",
+        "refused"
+      ]
+    ],
+    "synthstrip__adaptive_robust": [],
+    "synthstrip__pydeface": [
+      [
+        "ixi_t1_002",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_012",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_013",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_015",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_016",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_017",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_019",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_020",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_021",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_022",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_134",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_135",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_136",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_137",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_138",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_139",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_140",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_141",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_142",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_143",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_230",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_231",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_232",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_234",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_266",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_267",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_268",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_269",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_270",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_274",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_275",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_276",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_277",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_278",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_397",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_398",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_399",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_400",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_401",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_518",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_519",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_521",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_522",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_523",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_524",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_525",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_526",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_527",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_528",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_553",
+        "face",
+        "error"
+      ]
+    ],
+    "synthstrip__mri_deface": [
+      [
+        "infant_t1_23",
+        "face",
+        "refused"
+      ],
+      [
+        "ixi_t1_231",
+        "face",
+        "refused"
+      ]
+    ],
+    "synthstrip__quickshear": [],
+    "ixi__adaptive": [
+      [
+        "ixi_t1_303",
+        "face",
+        "refused"
+      ],
+      [
+        "ixi_t1_442",
+        "face",
+        "refused"
+      ]
+    ],
+    "ixi__adaptive_noverify": [
+      [
+        "ixi_t1_303",
+        "face",
+        "refused"
+      ],
+      [
+        "ixi_t1_442",
+        "face",
+        "refused"
+      ]
+    ],
+    "ixi__cut": [
+      [
+        "ixi_t1_303",
+        "face",
+        "refused"
+      ],
+      [
+        "ixi_t1_442",
+        "face",
+        "refused"
+      ]
+    ],
+    "ixi__adaptive_ears": [
+      [
+        "ixi_t1_303",
+        "face",
+        "refused"
+      ],
+      [
+        "ixi_t1_442",
+        "face",
+        "refused"
+      ]
+    ],
+    "ixi__pydeface": [
+      [
+        "ixi_t1_046",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_059",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_077",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_080",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_090",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_110",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_118",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_164",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_165",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_167",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_173",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_214",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_228",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_237",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_238",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_254",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_277",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_278",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_282",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_303",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_304",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_335",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_336",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_350",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_353",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_361",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_441",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_461",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_474",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_494",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_498",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_505",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_510",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_526",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_539",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_555",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_577",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_586",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_597",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_598",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_616",
+        "face",
+        "error"
+      ],
+      [
+        "ixi_t1_643",
+        "face",
+        "error"
+      ]
+    ],
+    "ixi__mri_deface": [
+      [
+        "ixi_t1_474",
+        "face",
+        "refused"
+      ],
+      [
+        "ixi_t1_510",
+        "face",
+        "refused"
+      ],
+      [
+        "ixi_t1_597",
+        "face",
+        "refused"
+      ]
+    ],
+    "ixi__quickshear": []
+  }
+}

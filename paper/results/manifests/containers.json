@@ -1,0 +1,11 @@
+{
+  "platform": "linux/amd64",
+  "synthstrip": {"ref": "freesurfer/synthstrip@sha256:16181aeb75cab4fa0bf7ab4f79ba77eca466cc0e28a384f3ecb007c4a376ea09", "image_id": "sha256:16181aeb75cab4fa0bf7ab4f79ba77eca466cc0e28a384f3ecb007c4a376ea09"},
+  "pydeface": {"ref": "poldracklab/pydeface@sha256:c648b8d70f31a186ff003ed2ad15d491d7b4a7d9adaa4665cf95526415fe3773", "image_id": "sha256:c648b8d70f31a186ff003ed2ad15d491d7b4a7d9adaa4665cf95526415fe3773"},
+  "mri_deface": {"ref": "radveil-paper/mri_deface:2007",
+                 "image_id": "sha256:ffa23166c92004ebd17097d4c986399e1016f7a97c0ac314eb70fcaaebc7308f",
+                 "files_sha256": {"mri_deface_linux": "b35fee28977399754f49970365dd634d0ae60f6178d15169c9ebae25c8ba9cf2",
+                                  "face.gca.gz": "f72f92579771b913e906d4197e32e59f4b214806ff0193e57d0ee7273399cc95",
+                                  "talairach_mixed_with_skull.gca.gz": "9e061c872b45db73536eff56a84045c29117b6e57412ee19a879404edd6c9aa8"}},
+  "fsl_fast": {"package": "fsl-fast4 2111.3-h448e8ba_9", "micromamba": "2.0.5", "native": true}
+}

@@ -1,0 +1,19 @@
+The files under paper/results/ are derived from public datasets:
+
+  * IXI (https://brain-development.org/ixi-dataset/), CC BY-SA 3.0
+  * SynthStrip evaluation set (Hoopes et al. 2022, https://w3id.org/synthstrip),
+    CC BY 4.0; its IXI part CC BY-SA 4.0
+
+Per-case records, manifests and summaries derived from IXI are therefore
+shared under the Creative Commons Attribution-ShareAlike 4.0 International
+licence (https://creativecommons.org/licenses/by-sa/4.0/), with attribution
+to the IXI project (Imperial College London) and, for the SynthStrip set, to
+Hoopes A, Mora JS, Dalca AV, Fischl B, Hoffmann M. SynthStrip: skull-stripping
+for any brain image. NeuroImage 260 (2022) 119474.
+
+Not distributed, by design: images, face renders other than tex/figures/
+fig_modes.png (one IXI subject, CC BY-SA 3.0), face-recognition embeddings
+and head-shape descriptors (biometric templates of the participants), and
+the per-case QA sheets. They are recomputed locally from the public data.
+
+The code that produced these files is Apache-2.0 (see ../../LICENSE).
