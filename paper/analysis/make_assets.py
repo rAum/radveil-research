@@ -811,9 +811,12 @@ def qa_review() -> None:
     if not p.exists():
         return
     rows = list(csv.DictReader(p.open()))
-    macro("qaReviewed", len(rows))
-    macro("qaFlagged", sum(r["verdict"] == "bad" for r in rows))
-    SUMMARY["qa_flagged"] = [{k: r[k] for k in ("run", "id", "note")} for r in rows if r["verdict"] == "bad"]
+    macro("qaReviewed", sum(r.get("verdict") in ("ok", "bad") for r in rows))
+    macro("qaFlagged", sum(r.get("verdict") == "bad" for r in rows))
+    SUMMARY["qa_flagged"] = [{k: r[k] for k in ("run", "id", "note")} for r in rows if r.get("verdict") == "bad"]
+    cov = Counter(r["coverage"] for r in rows if r.get("coverage"))
+    if cov:
+        SUMMARY["qa_coverage"] = dict(cov)
 
 
 def face_labels() -> None:
