@@ -87,6 +87,7 @@ main { padding:14px 16px; display:grid; grid-template-columns:repeat(auto-fill, 
 .verdict button.on.ok { border-color:var(--ok); color:var(--ok); font-weight:600 }
 .verdict button.on.bad { border-color:var(--bad); color:var(--bad); font-weight:600 }
 .reason { color:var(--muted) }
+#view[hidden] { display:none }
 #view { position:fixed; inset:0; background:rgba(0,0,0,.88); z-index:5; display:flex; flex-direction:column;
         align-items:center; justify-content:center; gap:10px; padding:16px }
 #view img { max-width:100%; max-height:82vh; background:#fff }

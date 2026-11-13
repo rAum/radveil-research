@@ -1,0 +1,62 @@
+{
+  "history": [
+    {
+      "flags": [
+        "quickshear"
+      ],
+      "attack": true,
+      "downstream": true,
+      "seg": 0.2,
+      "ref_brain": 0,
+      "shape": false,
+      "qa": true,
+      "jobs": 8,
+      "threads": 2,
+      "cases": 457,
+      "todo": 457,
+      "filter": "modality=t1,t2,pd,flair,qt1",
+      "every": 1,
+      "limit": 0,
+      "subjects": 0,
+      "only_accepted_by": "",
+      "argv": [
+        "--data-dir",
+        "$DATA_DIR",
+        "--jobs",
+        "8",
+        "--threads",
+        "2",
+        "--qa",
+        "--verify-data",
+        "--dataset",
+        "synthstrip",
+        "--config",
+        "quickshear",
+        "--attack",
+        "--downstream",
+        "--seg",
+        "0.2",
+        "--filter",
+        "modality=t1,t2,pd,flair,qt1"
+      ],
+      "env": {
+        "platform": "macOS-27.0-arm64-arm-64bit",
+        "machine": "arm64",
+        "python": "3.12.11",
+        "cpu_count": 14,
+        "git": "805facc1b9acbd72a316455cef4edf0fd828531e",
+        "git_tree": "7c773bf1c67895e723119eba8aba3b4fc97deec5",
+        "date": "2026-10-30T17:14:12+0100",
+        "cpu": "Apple M4 Pro",
+        "mem_gb": 48.0,
+        "perf_cores": "10",
+        "radveil_cli": "radveil 0.1.1",
+        "radveil_cli_sha256": "1c0a219794966ae0559781253e0e3e78a02dfe4f16814f323672dbae31600da9",
+        "radveil_py_sha256": "42af45e2ce3f4ae896cfecdfcd56c42b1f8870fc818f8d4fb366589fa24766b1",
+        "rustc": "rustc 1.98.1 (48a229cea 2026-09-01)"
+      }
+    }
+  ],
+  "dataset": "synthstrip",
+  "config": "quickshear"
+}

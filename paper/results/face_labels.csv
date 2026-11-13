@@ -1,0 +1,1817 @@
+dataset,id,label,note,reviewer,labelled_at
+synthstrip,ixi_mra_519,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_269,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_519,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_012,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_49,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_64ps,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_234,partial,thin slab around eyes noisy,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_234,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_10cv,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_57hp,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_128,face,full face noisy lower face,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_23qf,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_111,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_274,partial,cut near upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_397,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_269,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_55tg,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_143,partial,slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_523,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_002,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_137,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_54jc,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_270,face,full face noisy chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_134,partial,cut near upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_02cd,none,already defaced face region blocked out,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_524,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_277,face,full face and neck,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_122,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_231,face,full face noisy chin,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_118,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_13,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_002,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_401,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_141,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_123,face,full face with artifact above head,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_127,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_525,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_05,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_136,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_29,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_59ce,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_15,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_234,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_002,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_267,partial,cut below nose noisy,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_553,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_19,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_140,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_25,face,full infant face,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_90ao,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_232,partial,thin slab around eyes noisy,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_10cv,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_021,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_276,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_138,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_40mn,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_45,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_105,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_23qf,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_147,partial,tilted head chin cut off,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_18,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_17,face,full infant face,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_20,face,full infant face noisy background,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_99tc,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_019,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_22db,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_523,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_02,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_134,face,full face noisy lower face,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_03,partial,cut at nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_46th,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_266,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_017,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_399,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_46,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_126,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_142,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_13,partial,cut at eyes and nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_139,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_140,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_522,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_527,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_109,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_85fp,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_18,face,full infant face,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_08un,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_14pu,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_144,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_11ni,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_521,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_33qt,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_138,none,slab above orbits forehead only,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_526,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_116,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_02cd,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_119,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_67lq,none,already defaced face region scrambled,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_06,partial,eyes and nose; cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_39ap,none,pre-masked face surface pattern; only outline remains,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_274,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_130,face,full face with mouth and chin,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_47,partial,eyes and nose; cut at nose base,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_03,partial,eyes and upper nose only,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_05,partial,eyes and nose; cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_270,partial,oblique cut through mouth; chin missing,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_09,partial,eyes and upper nose only,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_398,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_55,partial,eyes and upper nose only,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_31,partial,eyes and nose; cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_109,face,full face; chin edge near cut,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_113,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_017,partial,cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_16,face,noisy box surface; slices show full face,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_79bf,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_11ni,none,noisy box surface; masked face pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_022,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_40,partial,eyes and upper nose only,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_138,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_267,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_14pu,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_25na,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_64ps,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_14,partial,eyes and nose; cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_397,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_118,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_399,partial,thin slab at eye level,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_523,partial,cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_66oo,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_526,partial,noisy; cut near upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_08un,none,noisy box; masked face pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_401,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_525,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_268,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_124,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_39,partial,eyes and nose; cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_137,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_90ao,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_127,face,full face with beard,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_93cs,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_01ob,none,noisy box; masked face pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_013,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_128,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_39ap,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_30gy,none,noisy box; masked face pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_518,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_90ao,none,noisy box; masked face pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_96ry,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_143,face,full face with chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_277,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_66oo,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_54jc,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_519,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_11,partial,eyes and nose; cut at nose base,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_33,partial,eyes and nose; cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_20,partial,eyes and nose; cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_87qb,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_10,partial,eyes and nose; cut at nose base,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_02,partial,eyes and nose; cut at nose base,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_015,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_24,partial,eyes and nose; cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_44,partial,eyes and upper nose only,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_522,partial,cut near upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_129,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_232,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_121,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_267,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_276,face,full face with chin,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_10,partial,eyes and nose; cut at nose base,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_48,partial,eyes and nose; cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_67lq,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_142,partial,thin slab at eye level,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_401,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_44,partial,eyes and nose; cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_140,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_144,face,full face with beard,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_016,partial,oblique cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_34,partial,tilted; eyes and upper nose only,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_130,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_34,partial,tilted; eyes and nose only,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_275,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_12,face,noisy background; threshold x2 shows full face,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_03,partial,eyes and nose; cut at nose base,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_399,partial,cut below mouth; chin missing,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_152,face,full face,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_398,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_274,partial,cut through mouth; chin missing,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_275,face,full face with chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_022,face,full face with chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_524,partial,eyes and nose; cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_397,partial,eyes and nose; cut at nose base,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_93cs,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_002,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_23qf,none,pre-masked face surface pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_36,partial,eyes and nose; cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_50ww,none,face region replaced by striped mask pattern inside noise box,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_230,partial,cut below nose mouth and chin missing,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_017,face,full head with chin and neck,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_90ao,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_06,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_022,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_21em,none,face region replaced by striped mask pattern inside noise box,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_524,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_002,partial,slab around eyes and nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_149,face,full face noisy lower face,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_27uz,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_230,face,full face noisy mouth and chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_401,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_015,partial,cut at eyes and nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_276,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_30gy,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_25,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_19,face,infant full head noisy surface,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_151,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_18,partial,cut below nose with frame artifacts,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_101,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_143,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_50,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_020,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_139,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_016,partial,thin slab around brow and eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_49,partial,cut at nose with frame artifacts,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_146,face,full face tilted head,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_234,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_28,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_150,face,full face with blocky patch near mouth,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_121,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_398,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_04,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_11ni,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_522,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_110,face,full face noisy lower face,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_01,partial,cut at nose with frame artifact,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_134,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_013,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_278,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_08un,none,face region replaced by striped mask pattern noisy,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_10cv,none,face region replaced by striped mask pattern inside noise box,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_52,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_01ob,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_39ap,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_150,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_54jc,none,face region replaced by striped mask pattern inside noise box,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_50ww,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_013,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_012,partial,cut below eyes at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_54,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_30,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_270,partial,cut at nose tip upper lip missing,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_25na,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_523,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_019,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_26,partial,cut at nose with frame artifacts,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_134,partial,thin slab forehead and brow to upper eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_31,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_06,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_015,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_231,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_149,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_119,face,full face noisy lower face,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_46,partial,cut at nose with frame artifact,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_123,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_48,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_521,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_145,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_270,partial,thin slab forehead with brows at lower edge,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_59ce,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_142,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_01ob,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_527,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_79bf,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_67lq,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_24dz,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_37,partial,cut at nose with frame artifact,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_518,partial,cut below eyes at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_277,partial,cut at nose noisy surface,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_106,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_01ob,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_112,face,full face noisy lower face,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_137,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_02cd,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_24dz,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_14pu,none,face region masked inside noise box,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_114,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_33,partial,cut at nose with frame artifacts,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_140,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_138,partial,cut below eyes at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_397,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_28,partial,cut at nose with frame artifact,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_125,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_21,face,infant full head very noisy surface,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_14pu,none,face region replaced by striped mask pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_21em,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_139,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_46,partial,thick slices cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_22db,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_022,partial,cut at nose/upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_126,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_269,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_020,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_143,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_523,partial,slab ending at eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_91zs,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_524,partial,cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_021,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_79bf,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_70qy,none,face pre-masked plus noisy box background,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_85fp,none,face pre-masked plus noisy box background,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_528,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_07,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_275,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_278,partial,cut at nose tip,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_137,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_27uz,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_276,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_59ce,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_528,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_524,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_01,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_30gy,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_21em,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_91zs,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_120,partial,tilted head cut at mouth noisy lower face,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_230,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_135,partial,slab ending at eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_96ry,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_116,face,full face chin at edge,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_521,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_518,partial,slab ending at eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_12,partial,thick slices cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_72kl,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_39,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_50ww,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_231,partial,slab ending at eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_519,partial,cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_14,face,infant full face,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_135,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_72kl,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_553,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_40mn,none,face pre-masked plus noisy box background,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_020,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_138,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_01,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_132,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_139,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_37,partial,thick slices cut at eyes/nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_013,partial,cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_120,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_015,partial,cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_141,partial,slab ending at eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_230,partial,slab ending at eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_135,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_66oo,none,face pre-masked plus noisy box background,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_278,partial,slab ending at eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_24dz,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_141,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_131,face,full face chin at edge,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_23,partial,thick slices cut at nose plus annotation artifacts,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_135,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_56,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_30gy,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_277,partial,slab ending at eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_400,partial,slab ending at eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_14,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_013,partial,cut at eyes/nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_54jc,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_42wk,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_15,partial,thick slices cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_117,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_10,partial,thick slices cut at nose plus annotation artifact,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_232,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_04,partial,thick slices cut at nose plus annotation artifact,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_276,partial,slab ending at eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_122,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_96ry,none,face pre-masked plus noisy box background,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_02cd,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_131,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_08un,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_59ce,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_275,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_398,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_43,partial,tilted thick slices cut at eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_08,partial,thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_137,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_07,partial,tilted thick slices cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_151,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_016,partial,cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_76cw,none,face region pre-masked with scrambled pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_93cs,none,face pre-masked plus noisy box background,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_017,partial,cut below nose mouth missing,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_115,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_111,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_09,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_64ps,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_526,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_13,face,full infant face,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_70qy,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_137,partial,thin slab eyes only,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_51,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_67lq,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_269,partial,thin slab brow and eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_527,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_87qb,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_268,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_136,partial,thin slab eyes only,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_019,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_50ww,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_267,partial,thin slab eyes only,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_521,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_23,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_268,partial,thin slab eyes only,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_99tc,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_277,partial,cut at upper lip noisy surface,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_269,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_268,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_136,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_91zs,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_124,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_021,face,full face to chin and neck,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_400,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_147,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_274,partial,thin slab brow and eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_08,partial,cut at nose tip,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_07,partial,cut below nose noisy tilted,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_114,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_39ap,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_113,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_397,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_46th,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_87qb,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_525,partial,cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_553,face,full face chin at edge,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_020,partial,thin slab eyes and nose bridge,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_27uz,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_27,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_11ni,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_525,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_11,face,full infant face noisy background,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_142,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_76cw,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_04,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_09,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_012,partial,thin slab eyes only,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_526,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_012,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_527,partial,thin slab eyes only,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_015,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_42,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_96ry,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_117,face,full face chin at edge,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_08,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_41,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_132,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_93cs,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_35,partial,cut at upper lip thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_21em,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_522,partial,thin slab eyes only,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_528,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_91zs,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_266,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_278,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_22,face,full infant face chin at edge,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_137,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_019,face,full face chin at edge,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_05,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_400,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_232,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_57,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_57hp,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_85fp,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_27uz,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_22db,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_66oo,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_266,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_266,face,full face to chin,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_64ps,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_21,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_522,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_32,partial,cut below nose thick slices,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_136,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_57hp,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_135,face,full face noisy lower face chin at edge,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_231,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_125,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_399,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_76cw,none,already defaced noise-filled face region,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_101,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_42wk,none,already defaced box cut over face,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_87qb,none,already defaced face replaced by pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_38,partial,thick slab cut below eyes/nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_518,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_38,partial,slab eyes and nose cut near upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_274,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_519,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_99tc,none,already defaced face replaced by pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_275,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_106,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_42wk,none,already defaced DEFACE text pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_35,partial,slab cut at nose/upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_136,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_36,partial,slab cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_129,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_112,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_143,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_135,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_29,partial,slab eyes and nose cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_401,partial,cut at nose tip,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_22db,none,already defaced face replaced by pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_115,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_139,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_07tz,none,already defaced DEFACE text pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_25,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_110,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_21,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_143,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_15,face,infant full face visible at high threshold noisy bg,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_99tc,none,already defaced face replaced by pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_40mn,none,already defaced face replaced by pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_021,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_139,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_518,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_141,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_267,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_70qy,none,already defaced face replaced by pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_553,partial,thin slab around eyes noisy,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_521,partial,thin slab around eyes noisy,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_26,face,infant full face visible at high threshold noisy bg,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_012,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_398,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_45,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_40,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_40mn,none,already defaced DEFACE text pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_134,partial,cut at upper lip,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_142,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_139,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_30,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_146,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_26,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_12,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_140,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_268,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_23qf,none,already defaced face replaced by pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_20,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_10cv,none,already defaced DEFACE text pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_24dz,none,already defaced pattern in noisy box,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_016,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_526,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_85fp,none,already defaced face replaced by pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_270,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_266,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_17,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_400,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_pd_42wk,none,already defaced DEFACE text pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_527,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_13,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_79bf,none,already defaced pattern in box,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_17,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_02,partial,slab cut through nose,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_23,face,infant full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t1_27,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_528,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t1_70qy,none,already defaced DEFACE text pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_105,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_43,partial,tilted slab eyes region cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_142,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_flair_14,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_dwi_400,none,brain-only DWI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_11,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_t2_07tz,none,already defaced DEFACE text pattern,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_138,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_134,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_32,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_mra_528,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+synthstrip,qin_t2_15,partial,slab eyes and nose cut at nose,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_399,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t2_278,partial,cut below eyes/nose,model:claude-opus-5-5,2026-11-12
+synthstrip,infant_t1_24,face,infant full face visible at high threshold noisy bg,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_57hp,none,already defaced pattern in box,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_t1_140,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+synthstrip,ixi_pd_525,partial,cut below nose,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_epi_152,none,brain-only EPI,model:claude-opus-5-5,2026-11-12
+synthstrip,fsm_qt1_76cw,none,already defaced pattern in box,model:claude-opus-5-5,2026-11-12
+synthstrip,asl_t1_145,partial,tilted head cut at mouth chin missing,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_439,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_410,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_544,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_041,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_431,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_228,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_195,partial,FOV ends at nose eyes visible,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_477,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_238,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_419,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_504,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_589,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_536,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_401,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_448,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_322,face,full face down to chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_017,partial,FOV ends mid nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_058,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_591,partial,FOV ends near mouth chin missing,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_435,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_102,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_097,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_492,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_131,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_552,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_134,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_227,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_248,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_196,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_277,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_216,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_234,face,full face down to chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_196,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_286,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_326,partial,FOV ends at mouth chin missing,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_371,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_120,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_507,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_503,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_328,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_387,partial,noisy surface FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_314,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_425,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_177,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_282,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_069,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_148,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_348,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_267,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_553,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_210,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_390,partial,FOV ends at nose bridge eyes only,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_488,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_353,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_336,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_376,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_569,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_302,partial,thin slab eyes and nose bridge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_371,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_438,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_311,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_066,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_065,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_498,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_099,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_526,face,full face incl chin head tilted,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_188,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_033,partial,thin slab around eyes no nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_085,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_424,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_031,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_405,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_566,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_222,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_633,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_619,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_106,partial,FOV ends at nose bridge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_137,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_441,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_446,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_418,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_290,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_430,partial,FOV ends near nose eyes visible,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_580,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_577,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_389,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_635,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_534,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_223,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_237,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_107,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_579,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_093,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_218,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_092,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_369,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_160,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_357,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_405,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_525,partial,FOV ends at eyes no nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_505,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_567,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_059,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_632,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_551,partial,FOV ends below nose no mouth or chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_104,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_091,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_327,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_316,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_290,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_261,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_020,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_559,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_445,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_096,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_299,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_021,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_108,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_572,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_548,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_599,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_505,partial,FOV ends at upper lip no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_452,partial,FOV ends at nose base,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_585,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_259,partial,thin slab eyes and nose only,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_093,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_143,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_144,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_633,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_429,partial,FOV ends around mouth no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_286,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_225,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_651,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_298,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_444,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_263,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_572,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_533,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_415,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_041,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_578,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_432,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_488,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_630,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_240,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_511,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_556,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_056,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_417,face,FOV ends just below chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_396,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_437,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_175,partial,FOV ends at nose eyes and brow only,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_153,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_542,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_295,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_241,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_236,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_042,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_607,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_551,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_598,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_013,partial,FOV ends at nose eyes only,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_193,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_036,partial,thin slab eyes FOV ends mid nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_241,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_407,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_638,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_294,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_585,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_260,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_467,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_469,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_407,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_232,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_252,face,full face incl chin motion artifacts,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_048,partial,thin slab eyes FOV ends mid nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_612,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_384,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_475,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_250,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_401,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_502,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_080,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_463,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_383,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_598,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_191,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_595,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_107,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_279,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_489,partial,FOV ends at mouth no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_363,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_046,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_254,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_259,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_605,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_213,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_652,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_066,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_178,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_537,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_453,partial,thin slab eyes FOV ends mid nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_501,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_083,partial,thin slab eyes FOV ends mid nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_506,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_084,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_303,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_383,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_403,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_286,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_344,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_051,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_076,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_269,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_175,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_561,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_358,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_279,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_608,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_386,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_482,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_167,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_591,partial,FOV ends at mouth no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_367,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_030,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_221,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_508,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_476,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_448,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_536,partial,FOV ends at mouth no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_494,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_172,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_510,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_156,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_610,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_490,partial,FOV ends at mouth no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_386,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_209,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_028,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_021,face,full face incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_132,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_571,face,full face FOV ends at chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_252,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_586,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_337,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_390,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_056,partial,FOV ends at nostrils,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_028,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_118,face,full face incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_278,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_648,partial,FOV ends at nostrils,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_096,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_157,partial,FOV ends at nostrils,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_249,partial,FOV ends at mouth no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_406,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_368,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_553,partial,FOV ends at nostrils,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_361,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_373,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_159,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_257,face,full face incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_276,partial,FOV ends at nostrils,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_652,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_593,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_573,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_012,partial,FOV ends at mid nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_432,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_101,partial,FOV ends at nostrils,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_331,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_198,face,full face chin near FOV edge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_054,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_473,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_145,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_218,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_585,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_424,face,full face bearded chin at FOV edge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_131,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_608,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_528,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_302,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_304,partial,FOV ends at mouth no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_361,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_084,partial,FOV ends at nostrils,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_408,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_607,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_594,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_361,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_459,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_406,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_535,partial,FOV ends at mouth no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_128,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_580,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_569,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_599,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_265,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_403,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_107,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_661,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_603,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_486,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_060,partial,FOV ends at nostrils,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_517,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_138,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_344,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_474,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_643,partial,FOV ends at nostrils,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_016,partial,FOV ends at nose tilted cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_399,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_330,partial,thin slab ends just below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_441,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_017,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_254,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_340,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_640,partial,oblique cut below nose no mouth,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_130,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_022,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_447,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_098,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_418,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_586,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_198,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_378,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_548,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_015,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_396,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_333,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_168,partial,slab eyes to nose bridge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_345,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_289,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_275,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_210,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_083,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_475,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_367,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_020,face,full face incl chin oblique neck cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_638,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_043,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_319,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_417,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_579,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_594,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_409,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_315,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_106,face,full face oblique cut at chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_308,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_587,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_556,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_268,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_160,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_289,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_052,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_403,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_288,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_477,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_234,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_321,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_632,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_299,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_555,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_134,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_389,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_020,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_182,face,full face incl chin oblique cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_226,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_467,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_076,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_538,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_256,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_336,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_544,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_068,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_178,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_088,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_053,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_511,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_609,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_191,face,full face incl chin dropout at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_522,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_439,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_326,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_321,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_335,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_584,partial,FOV ends at nose vertex also cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_035,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_636,face,full head incl chin noisy surface,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_085,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_019,face,full face incl chin oblique neck cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_146,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_232,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_062,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_091,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_494,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_637,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_456,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_542,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_606,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_354,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_546,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_411,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_253,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_224,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_085,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_562,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_113,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_293,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_651,partial,oblique slab ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_392,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_433,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_167,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_420,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_539,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_214,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_586,partial,FOV ends at nose mouth and chin missing,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_329,partial,FOV ends below nose at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_344,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_156,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_641,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_354,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_126,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_485,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_204,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_212,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_494,partial,FOV ends at nose base,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_474,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_174,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_527,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_555,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_457,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_251,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_577,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_543,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_428,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_228,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_508,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_132,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_166,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_495,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_067,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_014,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_054,partial,FOV ends at nose base,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_461,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_395,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_579,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_033,partial,FOV ends just below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_068,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_451,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_588,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_021,partial,FOV ends at nose base,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_437,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_222,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_335,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_285,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_036,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_162,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_236,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_246,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_127,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_598,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_310,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_102,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_317,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_430,partial,FOV ends at nose base,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_518,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_391,partial,FOV ends at nose base,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_351,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_138,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_576,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_592,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_612,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_350,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_189,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_110,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_428,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_575,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_026,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_464,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_039,partial,FOV ends just below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_161,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_169,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_547,partial,FOV ends at nose base,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_225,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_347,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_479,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_455,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_263,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_060,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_419,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_013,partial,FOV ends at nose bridge below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_541,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_292,partial,FOV ends at nose base,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_559,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_185,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_477,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_095,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_277,partial,FOV ends at nose base,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_363,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_342,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_248,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_320,partial,FOV ends at nose base,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_255,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_172,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_137,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_550,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_156,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_621,partial,FOV ends at nose base,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_558,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_275,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_622,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_452,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_449,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_064,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_424,partial,FOV ends at nose base,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_636,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_381,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_375,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_478,partial,FOV ends near upper lip no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_443,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_519,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_485,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_279,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_414,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_306,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_625,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_068,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_380,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_179,partial,FOV ends at nose eyes only,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_616,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_038,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_036,partial,thin slab eyes only nose cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_405,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_600,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_431,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_621,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_402,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_566,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_246,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_278,partial,eyes only nose cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_076,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_049,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_255,partial,eyes and nose only,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_554,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_139,partial,tilted FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_404,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_162,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_322,partial,eyes only FOV cuts nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_552,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_433,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_387,partial,FOV ends at nose motion artifact,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_038,face,full face incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_071,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_483,partial,eyes only nose cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_331,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_371,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_521,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_056,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_051,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_385,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_547,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_112,partial,eyes only nose cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_502,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_411,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_169,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_292,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_389,partial,eyes only nose cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_452,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_438,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_543,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_236,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_189,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_079,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_416,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_576,partial,FOV ends at upper lip tilted,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_594,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_332,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_432,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_095,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_464,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_135,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_108,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_350,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_568,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_260,partial,eyes only nose cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_506,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_388,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_257,partial,tilted FOV cuts nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_502,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_070,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_163,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_266,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_050,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_122,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_445,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_029,partial,eyes only nose cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_225,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_364,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_016,partial,tilted FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_223,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_130,face,full face incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_118,partial,tilted FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_067,partial,eyes only nose cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_499,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_181,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_461,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_306,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_211,face,full face incl chin artifacts at mouth,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_501,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_427,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_492,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_591,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_330,partial,eyes only nose cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_043,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_014,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_397,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_336,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_611,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_333,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_168,partial,eyes only nose cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_460,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_157,partial,FOV ends below nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_094,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_242,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_162,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_229,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_086,partial,FOV ends at nose bridge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_526,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_074,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_519,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_057,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_174,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_230,face,full face incl chin mouth region noisy,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_588,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_274,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_063,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_317,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_268,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_482,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_555,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_143,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_435,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_521,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_216,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_496,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_510,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_059,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_528,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_308,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_587,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_473,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_565,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_573,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_512,partial,tilted head FOV ends near upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_413,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_398,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_063,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_328,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_377,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_373,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_267,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_114,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_474,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_313,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_109,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_077,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_212,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_610,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_541,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_226,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_028,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_159,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_623,face,full face incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_536,face,full face FOV ends at chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_126,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_541,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_027,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_636,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_129,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_622,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_053,partial,FOV ends at eyes and nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_458,partial,tilted head FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_320,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_573,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_558,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_209,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_146,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_086,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_045,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_262,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_377,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_488,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_157,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_643,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_090,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_441,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_516,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_304,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_442,face,full face incl chin nose surface artifact,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_188,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_110,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_264,partial,FOV ends below nose noisy surface,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_232,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_443,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_527,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_194,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_208,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_364,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_440,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_427,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_087,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_038,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_450,partial,tilted head FOV ends near upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_294,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_274,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_148,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_454,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_137,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_597,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_588,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_034,partial,thin slab FOV ends at nose bridge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_497,partial,tilted head FOV ends near upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_253,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_370,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_094,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_265,partial,FOV ends below nose at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_454,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_539,partial,FOV ends around mouth chin missing,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_150,partial,FOV ends at nose base,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_375,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_199,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_510,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_379,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_165,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_589,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_380,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_233,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_280,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_634,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_117,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_605,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_051,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_534,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_446,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_296,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_044,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_296,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_300,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_261,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_277,partial,noisy FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_061,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_117,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_268,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_123,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_456,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_262,partial,FOV ends just below eyes at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_409,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_358,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_460,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_141,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_517,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_575,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_141,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_111,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_244,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_498,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_337,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_597,partial,thin slab ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_258,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_519,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_307,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_638,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_122,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_338,partial,FOV ends below nose noisy,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_360,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_539,partial,FOV ends near mouth chin missing,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_177,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_142,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_325,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_250,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_270,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_487,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_206,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_629,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_256,partial,thin slab around eyes ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_600,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_206,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_368,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_178,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_410,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_462,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_311,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_014,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_400,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_310,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_289,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_287,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_253,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_292,partial,FOV ends at mouth chin missing,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_080,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_023,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_572,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_613,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_378,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_113,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_305,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_165,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_072,partial,noisy FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_293,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_081,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_479,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_538,face,full FOV incl chin with lower face artifacts,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_394,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_239,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_609,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_228,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_626,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_057,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_354,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_442,partial,thin slab around eyes FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_646,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_469,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_532,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_180,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_211,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_184,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_201,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_130,partial,FOV ends just below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_412,partial,FOV ends below nose no mouth,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_372,partial,FOV ends below nose no mouth,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_496,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_233,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_484,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_351,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_234,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_106,partial,FOV ends at nose no mouth,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_229,partial,FOV ends near upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_259,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_465,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_166,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_318,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_048,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_574,partial,FOV ends mid nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_443,face,full head incl chin noisy surface,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_057,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_538,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_523,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_135,face,full face incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_094,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_115,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_101,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_276,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_593,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_158,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_463,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_050,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_040,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_231,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_434,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_423,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_315,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_074,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_122,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_054,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_380,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_549,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_531,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_606,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_641,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_480,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_644,face,full face chin near FOV edge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_077,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_574,partial,FOV ends mid nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_440,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_544,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_364,partial,FOV ends near upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_164,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_393,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_592,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_153,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_603,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_127,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_606,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_476,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_237,partial,FOV ends near mouth no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_247,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_173,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_465,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_644,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_644,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_145,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_444,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_484,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_240,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_141,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_208,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_420,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_034,partial,FOV ends just below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_360,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_276,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_630,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_252,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_217,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_204,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_238,face,full face chin near FOV edge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_456,partial,FOV ends at nose tilted head,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_224,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_390,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_098,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_031,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_384,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_392,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_102,partial,FOV ends near upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_341,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_532,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_485,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_356,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_313,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_275,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_080,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_415,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_568,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_524,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_078,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_140,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_195,partial,FOV ends at nose bridge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_451,face,full face incl chin noisy lower face,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_297,partial,FOV ends near upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_362,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_383,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_616,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_092,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_321,partial,slab ends at nose bridge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_470,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_022,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_621,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_481,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_270,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_459,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_258,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_075,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_388,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_198,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_209,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_136,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_436,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_480,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_298,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_251,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_264,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_345,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_109,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_511,partial,slab ends at nose bridge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_183,partial,slab ends at nose bridge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_503,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_166,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_465,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_422,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_340,partial,slab ends at nose bridge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_136,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_148,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_419,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_078,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_037,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_314,face,full head incl chin bright patch at mouth,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_413,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_294,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_623,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_165,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_457,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_426,partial,FOV ends at eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_035,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_491,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_614,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_493,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_597,face,full head incl chin noisy mouth surface,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_426,partial,FOV ends at eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_037,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_112,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_310,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_381,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_470,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_164,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_453,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_207,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_438,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_627,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_119,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_263,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_261,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_599,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_546,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_111,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_592,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_324,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_307,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_096,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_300,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_167,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_468,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_284,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_025,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_058,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_596,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_512,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_582,partial,slab ends at nose bridge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_295,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_332,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_562,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_254,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_059,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_216,face,full head incl chin noisy surface,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_575,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_052,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_335,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_372,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_376,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_359,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_103,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_399,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_568,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_214,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_184,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_521,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_576,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_577,face,full head incl chin noisy surface,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_239,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_206,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_291,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_463,face,full head incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_098,partial,slab ends at nose bridge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_487,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_042,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_501,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_305,partial,FOV ends near mouth no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_111,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_150,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_312,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_023,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_110,partial,FOV ends below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_074,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_398,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_123,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_024,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_041,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_285,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_440,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_358,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_179,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_554,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_365,partial,FOV ends at mouth no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_019,partial,FOV ends at nose oblique cut,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_131,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_375,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_478,partial,FOV ends at mouth no chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_473,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_318,partial,FOV ends below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_214,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_207,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_367,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_097,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_483,partial,FOV ends below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_322,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_121,partial,FOV ends below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_523,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_646,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_002,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_563,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_318,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_329,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_291,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_500,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_146,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_227,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_347,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_039,partial,FOV ends at eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_070,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_525,partial,FOV ends at eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_079,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_643,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_416,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_324,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_090,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_395,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_596,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_211,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_143,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_478,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_221,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_083,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_435,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_412,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_015,partial,FOV ends below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_584,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_442,partial,FOV ends below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_561,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_087,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_362,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_548,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_563,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_100,partial,FOV ends below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_578,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_075,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_062,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_417,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_298,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_556,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_549,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_425,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_050,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_072,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_303,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_264,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_169,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_391,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_445,partial,FOV ends below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_066,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_109,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_614,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_088,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_100,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_296,face,full head incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_265,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_039,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_115,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_516,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_626,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_278,partial,FOV ends below eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_648,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_306,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_287,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_242,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_607,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_024,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_174,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_284,partial,FOV ends near upper lip chin missing,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_600,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_017,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_044,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_087,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_113,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_044,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_382,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_430,partial,mouth present chin cut off,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_184,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_089,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_524,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_462,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_437,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_293,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_596,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_392,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_181,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_515,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_350,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_357,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_634,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_267,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_483,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_632,partial,FOV ends at upper lip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_139,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_550,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_199,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_282,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_046,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_158,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_072,partial,FOV ends at nose noisy surface,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_175,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_526,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_193,face,full face incl chin and neck,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_183,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_129,partial,slab around eyes and nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_205,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_029,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_136,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_327,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_460,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_150,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_316,face,full face incl chin noisy surface,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_382,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_247,partial,FOV ends near upper lip chin missing,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_114,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_491,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_369,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_423,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_314,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_090,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_582,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_012,partial,thin slab around eyes,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_173,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_093,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_115,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_208,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_052,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_071,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_073,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_338,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_637,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_242,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_128,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_549,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_439,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_497,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_617,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_257,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_489,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_630,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_357,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_341,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_046,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_661,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_639,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_121,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_416,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_468,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_042,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_518,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_382,partial,FOV ends below nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_055,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_034,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_226,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_612,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_345,face,full face incl chin,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_179,face,full face chin at FOV edge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t1_562,face,full face chin at FOV edge,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_240,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_449,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_481,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_571,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_635,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_353,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_104,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_563,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_217,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_161,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12
+ixi,ixi_pd_316,partial,FOV ends at nose tip,model:claude-opus-5-5,2026-11-12
+ixi,ixi_t2_027,partial,FOV ends at nose,model:claude-opus-5-5,2026-11-12

@@ -738,13 +738,15 @@ Without the self-check, accepted scans were identified at
 \reidArcFaceAdaptiveBlindRank\%; anonymized probes against an anonymized
 gallery \reidArcFaceAdaptiveMatchedRank\%; the anonymized T1 against its own
 original, a sanity bound, \reidArcFaceAdaptiveSameRank\%. On the paired
-100-subject sample (Table~\ref{tab:reidpaired}), pydeface, mri\_deface and
-Quickshear reached release-risk rank-1 of \reidArcFacePairedPydefaceRank\%,
-\reidArcFacePairedMriDefaceRank\% and \reidArcFacePairedQuickshearRank\%
-against \reidArcFacePairedAdaptiveRank\% for \rv{}; a baseline's release
-risk is driven by how few scans it processes at all, since every refusal or
-failure counts at its clean outcome (Table~\ref{tab:reidpaired} lists each
-tool's accepted probes). Inverting the blur with the known kernel
+100-subject sample (Table~\ref{tab:reidpaired}), release-risk rank-1 was
+\reidArcFacePairedPydefaceRank\% for pydeface and
+\reidArcFacePairedMriDefaceRank\% for mri\_deface --- close to
+\reidArcFacePairedAdaptiveRank\% for \rv{} \code{adaptive}, but for a
+different reason: their outputs themselves stay recognizable (AUC
+$\ge0.9$), where \rv{}'s residual risk comes mostly from refusals counted
+at their clean outcome. Quickshear, which removes the whole lower face,
+reached \reidArcFacePairedQuickshearRank\%. Inverting the blur with the
+known kernel
 (Table~\ref{tab:deconv}) did not raise rank-1 for either recognizer: ArcFace
 \deconvArcFaceSigma\% and \deconvArcFaceSigmaXAdaptive\% against
 \deconvArcFacePlain\% without inversion, and SFace within its interval of
@@ -957,7 +959,8 @@ in-sample; the held-out IXI subjects are not out of distribution. Downstream
 analysis covers skull-stripping and FAST tissue segmentation; structure
 segmentation and morphometry (SynthSeg, FreeSurfer) are not evaluated.
 mideface, fsl\_deface and mri\_reface were not compared. Baselines ran on a
-subject sample, and timing comes from one laptop. Face presence was labelled by a
+subject sample, the independent IXI brain comparison covers only
+\ixiRefAdaptiveN{} \rv{} volumes, and timing comes from one laptop. Face presence was labelled by a
 vision-language model, not by radiologists; its errors would move the
 false-refusal counts.
 

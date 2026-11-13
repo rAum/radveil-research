@@ -1,0 +1,580 @@
+{
+ "gallery": 581,
+ "k": 20,
+ "rows": {
+  "controlWhole": {
+   "label": "clean T2/PD, whole head",
+   "n": 1154,
+   "subjects": 577,
+   "rank1": 0.4168110918544194,
+   "rank1_ci": [
+    0.3856152512998267,
+    0.4480069324090121
+   ],
+   "rank10": 0.598786828422877,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 0.0
+  },
+  "adaptiveWhole": {
+   "label": "adaptive, accepted, whole head",
+   "n": 541,
+   "subjects": 311,
+   "rank1": 0.37153419593345655,
+   "rank1_ci": [
+    0.32390744433366564,
+    0.4191745527612134
+   ],
+   "rank10": 0.6155268022181146,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 1.3584361286580993e-267,
+   "control_rank1_same_probes": 0.4454713493530499
+  },
+  "adaptiveWholeRisk": {
+   "label": "adaptive, release risk, whole head",
+   "n": 1154,
+   "subjects": 577,
+   "rank1": 0.3821490467937608,
+   "rank1_ci": [
+    0.3492201039861352,
+    0.4150779896013865
+   ],
+   "rank10": 0.58578856152513,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 0.0
+  },
+  "adaptive_noverifyWhole": {
+   "label": "adaptive_noverify, accepted, whole head",
+   "n": 541,
+   "subjects": 311,
+   "rank1": 0.3789279112754159,
+   "rank1_ci": [
+    0.3326920174523901,
+    0.4263869547963491
+   ],
+   "rank10": 0.6192236598890942,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 7.580388798897817e-290,
+   "control_rank1_same_probes": 0.4454713493530499
+  },
+  "adaptive_noverifyWholeRisk": {
+   "label": "adaptive_noverify, release risk, whole head",
+   "n": 1154,
+   "subjects": 577,
+   "rank1": 0.3856152512998267,
+   "rank1_ci": [
+    0.3535528596187175,
+    0.4185658578856152
+   ],
+   "rank10": 0.587521663778163,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 0.0
+  },
+  "cutWhole": {
+   "label": "cut, accepted, whole head",
+   "n": 541,
+   "subjects": 311,
+   "rank1": 0.3290203327171904,
+   "rank1_ci": [
+    0.2835688874065427,
+    0.37408551810237195
+   ],
+   "rank10": 0.5341959334565619,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 2.1160485838718265e-243,
+   "control_rank1_same_probes": 0.4454713493530499
+  },
+  "cutWholeRisk": {
+   "label": "cut, release risk, whole head",
+   "n": 1154,
+   "subjects": 577,
+   "rank1": 0.36221837088388215,
+   "rank1_ci": [
+    0.3310008665511265,
+    0.3934142114384749
+   ],
+   "rank10": 0.5476603119584056,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 0.0
+  },
+  "adaptive_earsWhole": {
+   "label": "adaptive_ears, accepted, whole head",
+   "n": 541,
+   "subjects": 311,
+   "rank1": 0.3419593345656192,
+   "rank1_ci": [
+    0.29763458126151165,
+    0.3894122536977024
+   ],
+   "rank10": 0.5859519408502772,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 2.1160485838718265e-243,
+   "control_rank1_same_probes": 0.4454713493530499
+  },
+  "adaptive_earsWholeRisk": {
+   "label": "adaptive_ears, release risk, whole head",
+   "n": 1154,
+   "subjects": 577,
+   "rank1": 0.3682842287694974,
+   "rank1_ci": [
+    0.3362001733102253,
+    0.4003466204506066
+   ],
+   "rank10": 0.5719237435008665,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 0.0
+  },
+  "pydefaceWhole": {
+   "label": "pydeface, accepted, whole head",
+   "n": 99,
+   "subjects": 99,
+   "rank1": 0.45454545454545453,
+   "rank1_ci": [
+    0.36363636363636365,
+    0.5555555555555556
+   ],
+   "rank10": 0.5252525252525253,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 1.2630721082085723e-96,
+   "control_rank1_same_probes": 0.48484848484848486
+  },
+  "pydefaceWholeRisk": {
+   "label": "pydeface, release risk, whole head",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.4494949494949495,
+   "rank1_ci": [
+    0.37373737373737376,
+    0.5303030303030303
+   ],
+   "rank10": 0.6161616161616161,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 7.441242448101219e-121
+  },
+  "mri_defaceWhole": {
+   "label": "mri_deface, accepted, whole head",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.4393939393939394,
+   "rank1_ci": [
+    0.35858585858585856,
+    0.5252525252525253
+   ],
+   "rank10": 0.6212121212121212,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 5.397370678136084e-113,
+   "control_rank1_same_probes": 0.46464646464646464
+  },
+  "mri_defaceWholeRisk": {
+   "label": "mri_deface, release risk, whole head",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.4393939393939394,
+   "rank1_ci": [
+    0.35353535353535354,
+    0.5202020202020202
+   ],
+   "rank10": 0.6212121212121212,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 5.397370678136084e-113
+  },
+  "quickshearWhole": {
+   "label": "quickshear, accepted, whole head",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.3939393939393939,
+   "rank1_ci": [
+    0.3181818181818182,
+    0.4696969696969697
+   ],
+   "rank10": 0.6161616161616161,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 7.646523860745932e-108,
+   "control_rank1_same_probes": 0.46464646464646464
+  },
+  "quickshearWholeRisk": {
+   "label": "quickshear, release risk, whole head",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.3939393939393939,
+   "rank1_ci": [
+    0.31313131313131315,
+    0.47474747474747475
+   ],
+   "rank10": 0.6161616161616161,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 7.646523860745932e-108
+  },
+  "controlOutside": {
+   "label": "clean T2/PD, outside the face",
+   "n": 1154,
+   "subjects": 577,
+   "rank1": 0.25996533795493937,
+   "rank1_ci": [
+    0.23308058925476605,
+    0.28771663778162904
+   ],
+   "rank10": 0.5294627383015598,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 0.0
+  },
+  "adaptiveOutside": {
+   "label": "adaptive, accepted, outside the face",
+   "n": 541,
+   "subjects": 311,
+   "rank1": 0.2754158964879852,
+   "rank1_ci": [
+    0.23525288620120946,
+    0.31784386617100374
+   ],
+   "rank10": 0.5767097966728281,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 9.685151774268805e-197,
+   "control_rank1_same_probes": 0.2809611829944547
+  },
+  "adaptiveOutsideRisk": {
+   "label": "adaptive, release risk, outside the face",
+   "n": 1154,
+   "subjects": 577,
+   "rank1": 0.25736568457538994,
+   "rank1_ci": [
+    0.22790294627383015,
+    0.28596187175043325
+   ],
+   "rank10": 0.5207972270363952,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 0.0
+  },
+  "adaptive_noverifyOutside": {
+   "label": "adaptive_noverify, accepted, outside the face",
+   "n": 541,
+   "subjects": 311,
+   "rank1": 0.2828096118299446,
+   "rank1_ci": [
+    0.2388888888888889,
+    0.32495861520502967
+   ],
+   "rank10": 0.5859519408502772,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 6.951216096484195e-206,
+   "control_rank1_same_probes": 0.2809611829944547
+  },
+  "adaptive_noverifyOutsideRisk": {
+   "label": "adaptive_noverify, release risk, outside the face",
+   "n": 1154,
+   "subjects": 577,
+   "rank1": 0.2608318890814558,
+   "rank1_ci": [
+    0.23310225303292895,
+    0.2885615251299827
+   ],
+   "rank10": 0.5251299826689775,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 0.0
+  },
+  "cutOutside": {
+   "label": "cut, accepted, outside the face",
+   "n": 541,
+   "subjects": 311,
+   "rank1": 0.2513863216266174,
+   "rank1_ci": [
+    0.21032948255618922,
+    0.29608938547486036
+   ],
+   "rank10": 0.49353049907578556,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 5.68571705884573e-181,
+   "control_rank1_same_probes": 0.2809611829944547
+  },
+  "cutOutsideRisk": {
+   "label": "cut, release risk, outside the face",
+   "n": 1154,
+   "subjects": 577,
+   "rank1": 0.24610051993067592,
+   "rank1_ci": [
+    0.21837088388214904,
+    0.2738301559792028
+   ],
+   "rank10": 0.48180242634315423,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 0.0
+  },
+  "adaptive_earsOutside": {
+   "label": "adaptive_ears, accepted, outside the face",
+   "n": 541,
+   "subjects": 311,
+   "rank1": 0.22735674676524953,
+   "rank1_ci": [
+    0.1894909460458241,
+    0.26716141001855287
+   ],
+   "rank10": 0.532347504621072,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 1.0678635527293193e-167,
+   "control_rank1_same_probes": 0.2809611829944547
+  },
+  "adaptive_earsOutsideRisk": {
+   "label": "adaptive_ears, release risk, outside the face",
+   "n": 1154,
+   "subjects": 577,
+   "rank1": 0.23483535528596186,
+   "rank1_ci": [
+    0.20883882149046792,
+    0.2616984402079723
+   ],
+   "rank10": 0.5,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 0.0
+  },
+  "pydefaceOutside": {
+   "label": "pydeface, accepted, outside the face",
+   "n": 99,
+   "subjects": 99,
+   "rank1": 0.35353535353535354,
+   "rank1_ci": [
+    0.26262626262626265,
+    0.4444444444444444
+   ],
+   "rank10": 0.45454545454545453,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 1.1472065877386191e-70,
+   "control_rank1_same_probes": 0.31313131313131315
+  },
+  "pydefaceOutsideRisk": {
+   "label": "pydeface, release risk, outside the face",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.3282828282828283,
+   "rank1_ci": [
+    0.25252525252525254,
+    0.40404040404040403
+   ],
+   "rank10": 0.5404040404040404,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 6.152699760891847e-88
+  },
+  "mri_defaceOutside": {
+   "label": "mri_deface, accepted, outside the face",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.29292929292929293,
+   "rank1_ci": [
+    0.22727272727272727,
+    0.36363636363636365
+   ],
+   "rank10": 0.5404040404040404,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 2.10739654948604e-78,
+   "control_rank1_same_probes": 0.30808080808080807
+  },
+  "mri_defaceOutsideRisk": {
+   "label": "mri_deface, release risk, outside the face",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.29292929292929293,
+   "rank1_ci": [
+    0.22727272727272727,
+    0.37373737373737376
+   ],
+   "rank10": 0.5404040404040404,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 2.10739654948604e-78
+  },
+  "quickshearOutside": {
+   "label": "quickshear, accepted, outside the face",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.3282828282828283,
+   "rank1_ci": [
+    0.25252525252525254,
+    0.40404040404040403
+   ],
+   "rank10": 0.5454545454545454,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 6.152699760891847e-88,
+   "control_rank1_same_probes": 0.30808080808080807
+  },
+  "quickshearOutsideRisk": {
+   "label": "quickshear, release risk, outside the face",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.3282828282828283,
+   "rank1_ci": [
+    0.2474747474747475,
+    0.40404040404040403
+   ],
+   "rank10": 0.5454545454545454,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 6.152699760891847e-88
+  },
+  "controlDeep": {
+   "label": "clean T2/PD (same probes), 2x surface",
+   "n": 541,
+   "subjects": 311,
+   "rank1": 0.22735674676524953,
+   "rank1_ci": [
+    0.19003221846128238,
+    0.26384021042812655
+   ],
+   "rank10": 0.5619223659889094,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 5.68571705884573e-181
+  },
+  "adaptiveDeep": {
+   "label": "adaptive, accepted, 2x surface",
+   "n": 541,
+   "subjects": 311,
+   "rank1": 0.2255083179297597,
+   "rank1_ci": [
+    0.1884268119733436,
+    0.2644388761091028
+   ],
+   "rank10": 0.5286506469500925,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 9.611624601096776e-179
+  },
+  "controlPose": {
+   "label": "clean T2/PD, moved 10 deg/10 mm, whole head",
+   "n": 150,
+   "subjects": 144,
+   "rank1": 0.18666666666666668,
+   "rank1_ci": [
+    0.12582781456953643,
+    0.25174149659863926
+   ],
+   "rank10": 0.49333333333333335,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 7.341036903761187e-46
+  },
+  "controlPoseSame": {
+   "label": "clean, same probes as below, moved",
+   "n": 69,
+   "subjects": 65,
+   "rank1": 0.21739130434782608,
+   "rank1_ci": [
+    0.11940298507462686,
+    0.3194444444444444
+   ],
+   "rank10": 0.43478260869565216,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 2.579366259298616e-25
+  },
+  "adaptivePose": {
+   "label": "adaptive, accepted, moved, whole head",
+   "n": 69,
+   "subjects": 65,
+   "rank1": 0.18840579710144928,
+   "rank1_ci": [
+    0.09855731611893584,
+    0.2857142857142857
+   ],
+   "rank10": 0.43478260869565216,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 5.09126077414179e-21
+  },
+  "pairedControl": {
+   "label": "paired sample, clean",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.46464646464646464,
+   "rank1_ci": [
+    0.3888888888888889,
+    0.5454545454545454
+   ],
+   "rank10": 0.6313131313131313,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 7.037956949689867e-129
+  },
+  "pairedAdaptive": {
+   "label": "paired sample, adaptive (release)",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.40404040404040403,
+   "rank1_ci": [
+    0.3181818181818182,
+    0.4898989898989899
+   ],
+   "rank10": 0.6111111111111112,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 3.010588323434222e-100
+  },
+  "pairedAdaptiveNoverify": {
+   "label": "paired sample, adaptive_noverify (release)",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.41919191919191917,
+   "rank1_ci": [
+    0.3434343434343434,
+    0.51010101010101
+   ],
+   "rank10": 0.6212121212121212,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 2.7082377056916933e-105
+  },
+  "pairedCut": {
+   "label": "paired sample, cut (release)",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.35858585858585856,
+   "rank1_ci": [
+    0.2828282828282828,
+    0.43434343434343436
+   ],
+   "rank10": 0.5656565656565656,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 8.260932446298444e-93
+  },
+  "pairedAdaptiveEars": {
+   "label": "paired sample, adaptive_ears (release)",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.3787878787878788,
+   "rank1_ci": [
+    0.3029040404040404,
+    0.4595959595959596
+   ],
+   "rank10": 0.5959595959595959,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 9.451305233624684e-98
+  },
+  "pairedPydeface": {
+   "label": "paired sample, pydeface (release)",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.4494949494949495,
+   "rank1_ci": [
+    0.3686868686868687,
+    0.5303030303030303
+   ],
+   "rank10": 0.6161616161616161,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 7.441242448101219e-121
+  },
+  "pairedMriDeface": {
+   "label": "paired sample, mri_deface (release)",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.4393939393939394,
+   "rank1_ci": [
+    0.35858585858585856,
+    0.5252525252525253
+   ],
+   "rank10": 0.6212121212121212,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 5.397370678136084e-113
+  },
+  "pairedQuickshear": {
+   "label": "paired sample, quickshear (release)",
+   "n": 198,
+   "subjects": 99,
+   "rank1": 0.3939393939393939,
+   "rank1_ci": [
+    0.3181818181818182,
+    0.46464646464646464
+   ],
+   "rank10": 0.6161616161616161,
+   "chance": 0.0017211703958691911,
+   "p_vs_chance": 7.646523860745932e-108
+  }
+ },
+ "paired_probes": 198
+}

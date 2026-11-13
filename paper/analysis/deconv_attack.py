@@ -122,7 +122,7 @@ def main() -> None:
         for name in ("clean", "plain", "sigma", "sigma_x_adaptive"):
             P = np.stack([reid._templates(c["emb"][f"{rec}_{name}"][None])[0] for c in use])
             m = reid._metrics(reid._fuse(reid._sim(P, G)), truth)
-            s = reid._summary(m, subj, np.random.default_rng(0), None, len(gsub))
+            s = reid._summary(m, subj, np.random.default_rng(0), len(gsub))
             out["rows"][f"{rec}_{name}"] = s
     p = RESULTS / "deconv_summary.json"
     p.write_text(json.dumps(out, indent=1) + "\n")

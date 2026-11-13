@@ -39,7 +39,7 @@ IXI_CONFIGS       := adaptive_noverify cut adaptive_ears
 IXI_SUBJECTS      ?= 100
 
 .PHONY: all env analysis-env cli containers data manifests manifests-update gallery synthstrip ixi rust \
-        deconv profile figures qa analysis pdf pdf-only smoke
+        deconv profile figures qa labels analysis pdf pdf-only smoke
 
 all: env manifests gallery synthstrip ixi rust deconv profile figures qa analysis pdf
 
@@ -110,9 +110,17 @@ profile:
 figures:
 	$(PY) analysis/make_figures.py --data-dir $(DATA_DIR)
 
-# human review page for the per-case QA sheets: open results/qa/index.html
+# human review pages for the per-case QA sheets: open results/qa/grid.html
+# (fast, one row per scan) or results/qa/index.html (one sheet at a time)
 qa:
 	$(PY) analysis/qa_gallery.py
+	$(PY) analysis/qa_grid.py
+
+# blinded face-presence labelling of the inputs (ground truth for refusals):
+# open results/qa/faces/<dataset>.html, save the CSV as results/face_labels.csv
+labels:
+	$(PY) analysis/face_labels.py --dataset synthstrip --data-dir $(DATA_DIR)
+	@if [ -f results/runs/ixi__adaptive.jsonl ]; then $(PY) analysis/face_labels.py --dataset ixi --data-dir $(DATA_DIR); fi
 
 # results/ -> summaries -> macros, tables, plots; the embedding/shape
 # summaries are skipped when their git-ignored inputs are absent
